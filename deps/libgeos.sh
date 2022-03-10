@@ -65,3 +65,6 @@ mv $dir_geos/src/geomgraph/Edge.cpp $dir_geos/src/geomgraph/Edge_geomgraph.cpp
 mv $dir_geos/src/planargraph/Edge.cpp $dir_geos/src/planargraph/Edge_planargraph.cpp
 mv $dir_geos/src/geomgraph/PlanarGraph.cpp $dir_geos/src/geomgraph/PlanarGraph_geomgraph.cpp
 mv $dir_geos/src/planargraph/PlanarGraph.cpp $dir_geos/src/planargraph/PlanarGraph_planargraph.cpp
+mv $dir_geos/src/operation/overlayng/LineBuilder.cpp $dir_geos/src/operation/overlayng/LineBuilder_ng.cpp
+mv $dir_geos/src/operation/overlayng/MaximalEdgeRing.cpp $dir_geos/src/operation/overlayng/MaximalEdgeRing_ng.cpp
+mv $dir_geos/src/operation/overlayng/PolygonBuilder.cpp $dir_geos/src/operation/overlayng/PolygonBuilder_ng.cpp
